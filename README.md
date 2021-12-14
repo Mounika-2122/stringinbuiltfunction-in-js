@@ -1,0 +1,1 @@
+# stringinbuiltfunction-in-js
